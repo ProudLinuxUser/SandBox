@@ -4,7 +4,7 @@
 
 #define GRID_WIDTH 150
 #define GRID_HEIGHT 150
-#define CELL_SIZE 4
+#define CELL_SIZE 6
 
 //materials
 typedef enum{
