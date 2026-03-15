@@ -102,7 +102,7 @@ int main(void){
                 //Printing out materials on the screen
                 BeginDrawing();
                 ClearBackground(BLACK);
-                DrawText("1|Sand\n2|Water\n3|STONE\n4|Clear",20,20,30,RAYWHITE);
+                DrawText("1|Sand\n2|Water\n3|Stone\n4|Clear",20,20,30,RAYWHITE);
                 DrawText(TextFormat("Selected: %s",str),200,20,30,RAYWHITE);
 
                 for (int x = 0; x < GRID_WIDTH;x++){
