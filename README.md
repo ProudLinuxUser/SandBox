@@ -6,7 +6,7 @@ Lava + Water -> Stone
 # Working on:
 Water + Sand -> Mud && Lava breaks everything except stone.
 
-# Controls
+# Materials:
 # 1|Sand
 # 2|Water
 # 3|Stone
