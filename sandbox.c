@@ -76,8 +76,8 @@ int main(void){
                         for (int x = 0; x < GRID_WIDTH;x++){
                                 for (int y = GRID_HEIGHT-2;y >= 0;y--){
                                         if (grid[x][y] == SAND && grid[x][y+1] == EMPTY){
-                                                grid[x][y] = EMPTY;
-                                                grid[x][y+1] = SAND;
+                                                        grid[x][y] = EMPTY;
+                                                        grid[x][y+1] = SAND;
                                         }
 
                                         if (rand() % 2 == 0){
