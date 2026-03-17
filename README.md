@@ -4,7 +4,7 @@ Sand falling simulation with a few materials
 # Reactions:
 Lava + Water -> Stone
 # Working on:
-Water + Sand -> Mud && Lava breaks everything except stone reaction.
+Water + Sand -> Mud && Lava breaks everything except stone.
 
 # Controls
 # 1|Sand
